@@ -1,11 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.dentrassi.elasticsearch</groupId>
 	<artifactId>log4j2-mock</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<name>ElasticSearch :: Log4J2 Mock</name>
 	<description>A mock implementation of log4j 2, just enough to satisfy Elasticsearch 5.x</description>
@@ -33,7 +32,8 @@
 		<connection>scm:git:git://github.com/ctron/de.dentrassi.elasticsearch.log4j2-mock.git</connection>
 		<url>https://github.com/ctron/de.dentrassi.elasticsearch.log4j2-mock</url>
 		<developerConnection>scm:git:git@github.com:ctron/de.dentrassi.elasticsearch.log4j2-mock.git</developerConnection>
-	</scm>
+	  <tag>log4j2-mock-0.0.1</tag>
+  </scm>
 
 	<issueManagement>
 		<system>GitHub Issues</system>
