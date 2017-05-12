@@ -4,7 +4,7 @@
 
 	<groupId>de.dentrassi.elasticsearch</groupId>
 	<artifactId>log4j2-mock</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<name>ElasticSearch :: Log4J2 Mock</name>
 	<description>A mock implementation of log4j 2, just enough to satisfy Elasticsearch 5.x</description>
@@ -32,7 +32,7 @@
 		<connection>scm:git:git://github.com/ctron/de.dentrassi.elasticsearch.log4j2-mock.git</connection>
 		<url>https://github.com/ctron/de.dentrassi.elasticsearch.log4j2-mock</url>
 		<developerConnection>scm:git:git@github.com:ctron/de.dentrassi.elasticsearch.log4j2-mock.git</developerConnection>
-	  <tag>log4j2-mock-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<issueManagement>
