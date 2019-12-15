@@ -42,6 +42,14 @@ public class LoggerContext {
             public Map<String, LoggerConfig> getLoggers() {
                 return Collections.emptyMap();
             }
+
+            @Override
+            public LoggerConfig getLoggerConfig(String name) {
+                return new LoggerConfig();
+            }
         };
+    }
+
+    public void updateLoggers() {
     }
 }
