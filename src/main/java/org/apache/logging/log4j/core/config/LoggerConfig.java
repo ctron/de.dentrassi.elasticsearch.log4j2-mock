@@ -15,5 +15,10 @@
  */
 package org.apache.logging.log4j.core.config;
 
+import org.apache.logging.log4j.Level;
+
 public class LoggerConfig {
+
+    public void setLevel(final Level level) {
+    }
 }
