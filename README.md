@@ -1,4 +1,4 @@
-## Log42j mock for Elasticsearch 5.x [![Travis](https://img.shields.io/travis/ctron/de.dentrassi.elasticsearch.log4j2-mock.svg)](https://travis-ci.org/ctron/de.dentrassi.elasticsearch.log4j2-mock) [![Maven Central](https://img.shields.io/maven-central/v/de.dentrassi.elasticsearch/log4j2-mock.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22de.dentrassi.elasticsearch%22%20AND%20a%3A%22log4j2-mock%22)
+## Log42j mock for Elasticsearch 5.x/6.x [![Travis](https://img.shields.io/travis/ctron/de.dentrassi.elasticsearch.log4j2-mock.svg)](https://travis-ci.org/ctron/de.dentrassi.elasticsearch.log4j2-mock) [![Maven Central](https://img.shields.io/maven-central/v/de.dentrassi.elasticsearch/log4j2-mock.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22de.dentrassi.elasticsearch%22%20AND%20a%3A%22log4j2-mock%22)
 
 This is a mock implementation of `org.apache.logging.log4j:log4j-core`, just enough to
 satisfy Elasticsearch 5.x to work with other logging frameworks such as SLF4J.
